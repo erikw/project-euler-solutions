@@ -1,7 +1,7 @@
 # Project Euler Solutions
 My solutions to problems from [projecteuler.net](https://projecteuler.net/).
 
-* NOTE very old repo imported
+* **NOTE** this is a very old imported repo
 * TODO wipe and restrucutre
 
 See also:
